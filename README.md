@@ -1,6 +1,6 @@
-# Maratona Explorer 3
+# Web Menu - Coffee Shop
 
-Simple coffee menu developed using HTML & CSS during RocketSeat's "Maratona Explorer" week. 
+Simple coffee shop menu developed using HTML & CSS during RocketSeat's "Maratona Explorer" week. 
 
 ## Liszt Ferenc Coffee
 
